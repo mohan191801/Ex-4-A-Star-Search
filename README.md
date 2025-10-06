@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name:       </h3>
-<h3>Register Number:           </h3>
+<h3>Name: Mohan M      </h3>
+<h3>Register Number: 2305001018          </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -164,8 +164,8 @@ Sample Output
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
 
 
-<hr>
-<h2>Sample Input</h2>
+
+### Input
 <hr>
 6 6 <br>
 A B 2 <br>
@@ -182,8 +182,10 @@ D 1 <br>
 G 0 <br>
 <hr>
 
-SAMPLE OUTPUT
+### OUTPUT
 
-![435098114-175123a9-8519-4ec4-b3f6-1151b674380d](https://github.com/user-attachments/assets/91f98b2e-c195-45de-9dbf-19bc17dbfb8f)
+<img width="620" height="134" alt="image" src="https://github.com/user-attachments/assets/b838c069-6383-4b78-a358-81f586684195" />
+
 
 ## RESULT
+A * Search algorithm for a Graph using Python was implemented and executed successfully.
