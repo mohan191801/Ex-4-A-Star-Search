@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: Nishal K
-<h3>Register Number: 2305001021
+<h3>Name: MOHAN M
+<h3>Register Number: 2305001018
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
